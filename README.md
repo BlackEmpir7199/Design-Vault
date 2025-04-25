@@ -7,12 +7,24 @@
 
 Welcome to **Design Vault** – my ultimate repository housing every piece of my design journey. Below, you’ll find all my works organized by category, displayed with visuals and details for a professional, immersive experience.  
 
-🔹 **Last Updated:** March 01, 2025  
+🔹 **Last Updated:** April 25, 2025  
 🔹 **Created By:** BlackEmpir7199  
 
 ---
 
-## 🗂️ **Full Design Collection**  
+## 📂 **Full Design Collection**  
+
+### 👤 **LinkedIn Posts**
+| **Design**                        | **Preview**                                                                 |
+|-----------------------------------|-----------------------------------------------------------------------------|
+| `HackBangalore-Archive.png`       | <img src="Linkedin-Posts/HackBangalore-Archive.png" width="200"/>          |
+| `Hackmageddon-Archive.png`        | <img src="Linkedin-Posts/Hackmageddon-Archive.png" width="200"/>           |
+| `Intellexa-Archive.png`           | <img src="Linkedin-Posts/Intellexa-Archive.png" width="200"/>              |
+| `Mint-Archive.png`                | <img src="Linkedin-Posts/Mint-Archive.png" width="200"/>                   |
+| `SIH-Archive.png`                 | <img src="Linkedin-Posts/SIH-Archive.png" width="200"/>                    |
+| `StartupMahakumbh-Archive.png`    | <img src="Linkedin-Posts/StartupMahakumbh-Archive.png" width="200"/>       |
+
+---
 
 ### 👕 **Apparels**  
 | **Subcategory**       | **Design**                        | **Preview**                                                                 |
@@ -66,7 +78,7 @@ Welcome to **Design Vault** – my ultimate repository housing every piece of my
 
 ---
 
-### 📑 **Documents**  
+### 📁 **Documents**  
 | **Design**                | **Link**                                                                 |
 |---------------------------|-------------------------------------------------------------------------|
 | `Campus-connect-abstract.pdf` | [View PDF](Documents/Campus-connect-abstract.pdf)                  |
@@ -82,7 +94,7 @@ Welcome to **Design Vault** – my ultimate repository housing every piece of my
 
 ---
 
-### 🖥️ **Kiosk**  
+### 💻 **Kiosk**  
 | **Design**                | **Preview**                                                              |
 |---------------------------|--------------------------------------------------------------------------|
 | `techtober-challenges.png`| <img src="Kiosk/techtober-challenges.png" width="200"/>                 |
@@ -94,7 +106,7 @@ Welcome to **Design Vault** – my ultimate repository housing every piece of my
 |-----------------|-------------------------------|--------------------------------------------------------------------------|
 | **Drafts**      | `draft-1-blackwhite.png`      | <img src="Logos/Drafts/draft-1-blackwhite.png" width="150"/>            |
 |                 | `draft-1-blue.png`            | <img src="Logos/Drafts/draft-1-blue.png" width="150"/>                  |
-|                 | `draft-1-white.png`           | <img src="Logos/Drafts/draft-1-white.png" width="150"/>                 |
+|                 | `draft-1-white.png"           | <img src="Logos/Drafts/draft-1-white.png" width="150"/>                 |
 |                 | `draft-1.png`                 | <img src="Logos/Drafts/draft-1.png" width="150"/>                       |
 |                 | `draft-2.png`                 | <img src="Logos/Drafts/draft-2.png" width="150"/>                       |
 |                 | `draft-3-black.png`           | <img src="Logos/Drafts/draft-3-black.png" width="150"/>                 |
@@ -116,15 +128,15 @@ Welcome to **Design Vault** – my ultimate repository housing every piece of my
 | **Subcategory**   | **Design**                        | **Preview**                                                              |
 |-------------------|-----------------------------------|--------------------------------------------------------------------------|
 | **College Club**  | `creative-catalyst-2.png`         | <img src="Posters/College-Club/creative-catalyst-2.png" width="200"/>   |
-|                   | `creative-catalyst-backdrop.png`  | <img src="Posters/College-Club/creative-catalyst-backdrop.png" width="200"/> |
+|                   | `creative-catalyst-backdrop.png"  | <img src="Posters/College-Club/creative-catalyst-backdrop.png" width="200"/> |
 |                   | `creative-catalyst.png`           | <img src="Posters/College-Club/creative-catalyst.png" width="200"/>     |
 |                   | `diwali-wish-club.png`            | <img src="Posters/College-Club/diwali-wish-club.png" width="200"/>      |
 |                   | `dsa-challenge-final-8&9.png`     | <img src="Posters/College-Club/dsa-challenge-final-8&9.png" width="200"/> |
 |                   | `github-session.png`              | <img src="Posters/College-Club/github-session.png" width="200"/>        |
-|                   | `profile-building-announcement.png` | <img src="Posters/College-Club/profile-building-announcement.png" width="200"/> |
-|                   | `techtober-challenge-calendar.png` | <img src="Posters/College-Club/techtober-challenge-calendar.png" width="200"/> |
-| **Standalone**    | `Koupons-backdrop.png`            | <img src="Posters/Koupons-backdrop.png" width="200"/>                   |
-|                   | `forus-project-backdrop.png`      | <img src="Posters/forus-project-backdrop.png" width="200"/>             |
+|                   | `profile-building-announcement.png" | <img src="Posters/College-Club/profile-building-announcement.png" width="200"/> |
+|                   | `techtober-challenge-calendar.png" | <img src="Posters/College-Club/techtober-challenge-calendar.png" width="200"/> |
+| **Standalone**    | `Koupons-backdrop.png"            | <img src="Posters/Koupons-backdrop.png" width="200"/>                   |
+|                   | `forus-project-backdrop.png"      | <img src="Posters/forus-project-backdrop.png" width="200"/>             |
 
 ---
 
@@ -138,7 +150,6 @@ Welcome to **Design Vault** – my ultimate repository housing every piece of my
 | `coalworks-ppt.pdf`   | [View PDF](PPTs/coalworks-ppt.pdf)                                     |
 | `cyber-triage-ppt.pdf`| [View PDF](PPTs/cyber-triage-ppt.pdf)                                  |
 | `iTNT-renwz-ppt.pdf`  | [View PDF](PPTs/iTNT-renwz-ppt.pdf)                                    |
-
 
 ---
 
